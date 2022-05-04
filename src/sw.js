@@ -1,3 +1,6 @@
+/* eslint-disable no-undef */
+/* eslint-disable no-restricted-globals */
+
 self.skipWaiting()
 
 workbox.routing.registerRoute(
